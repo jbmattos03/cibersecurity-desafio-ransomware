@@ -19,6 +19,10 @@ mkdir docs
 python3 -m venv myenv
 ```
 
+```
+source myenv/bin/activate
+```
+
 ## Instalação da biblioteca pyaes
 [Biblioteca contendo a implementação do algoritmo de criptografia AES](https://pypi.org/project/pyaes/)
 
