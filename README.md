@@ -56,7 +56,6 @@ nano decrypter.py
 
 ![image](https://github.com/user-attachments/assets/e779bba1-70e2-48a0-80b6-3b4d4fb48225)
 
-
 ### Criação dos arquivos alvo
 
 ```
@@ -78,4 +77,25 @@ nano importante.txt
 ```
 
 ![image](https://github.com/user-attachments/assets/93855255-9e85-4363-b123-05beb5daf923)
+
+## Execução do ransomware
+
+```
+python encrypter.py
+```
+
+![image](https://github.com/user-attachments/assets/9fdf4ade-556a-41b0-a5c0-06e0821525bc)
+
+![image](https://github.com/user-attachments/assets/7041db6f-a2f2-440a-8744-5fc40c515f7f)
+
+```
+python decrypter.py
+```
+
+![image](https://github.com/user-attachments/assets/69d633e8-eceb-4abe-8b79-d56c660db7f3)
+
+![image](https://github.com/user-attachments/assets/c948e0e1-d295-4735-a2e9-0f344bc0755d)
+
+![image](https://github.com/user-attachments/assets/742547d0-2909-40a9-9abe-cbcf578d1e13)
+
 
