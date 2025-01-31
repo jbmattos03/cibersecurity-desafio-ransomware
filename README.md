@@ -86,6 +86,8 @@ python encrypter.py
 
 ![image](https://github.com/user-attachments/assets/9fdf4ade-556a-41b0-a5c0-06e0821525bc)
 
+Checando os arquivos, verifica-se que o seu conteúdo não está mais legível:
+
 ![image](https://github.com/user-attachments/assets/2765151c-fd9d-41f7-a409-f1bf4a331ec8)
 
 ![image](https://github.com/user-attachments/assets/6f1172dd-b243-4275-9ae2-de245b9d681b)
@@ -95,6 +97,8 @@ python decrypter.py
 ```
 
 ![image](https://github.com/user-attachments/assets/69d633e8-eceb-4abe-8b79-d56c660db7f3)
+
+Agora, os arquivos estão legíveis novamente:
 
 ![image](https://github.com/user-attachments/assets/c948e0e1-d295-4735-a2e9-0f344bc0755d)
 
