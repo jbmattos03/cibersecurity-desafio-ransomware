@@ -86,6 +86,8 @@ python encrypter.py
 
 ![image](https://github.com/user-attachments/assets/9fdf4ade-556a-41b0-a5c0-06e0821525bc)
 
+![image](https://github.com/user-attachments/assets/2765151c-fd9d-41f7-a409-f1bf4a331ec8)
+
 ![image](https://github.com/user-attachments/assets/6f1172dd-b243-4275-9ae2-de245b9d681b)
 
 ```
