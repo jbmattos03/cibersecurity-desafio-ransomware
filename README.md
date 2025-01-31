@@ -48,6 +48,7 @@ nano encrypter.py
 
 ![image](https://github.com/user-attachments/assets/897f0c94-80ec-4c5a-9734-f044fcf4a3f1)
 
+
 ### Criação do arquivo decrypter.py
 
 ```
@@ -55,6 +56,7 @@ nano decrypter.py
 ```
 
 ![image](https://github.com/user-attachments/assets/e779bba1-70e2-48a0-80b6-3b4d4fb48225)
+
 
 ### Criação dos arquivos alvo
 
